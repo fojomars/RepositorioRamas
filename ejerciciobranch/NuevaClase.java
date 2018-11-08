@@ -10,5 +10,7 @@ package ejerciciobranch;
  * @author fojomars
  */
 public class NuevaClase {
-    
+    public void jeje(){
+        
+    }
 }
